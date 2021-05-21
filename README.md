@@ -2,7 +2,7 @@
 
 Input is sample.txt
 
-Output:
+Click on edit to see the output(plain text). Showing without spaces in README.md
 
 1) What is the correct answer to this question?
 A. Is it this one?
